@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1gd3fni1uOPvhQ6LWwj7_aRgNZrk_WAKi
 """
 
-!pip install streamlit
 import streamlit as st
 import time
 import pandas as pd
